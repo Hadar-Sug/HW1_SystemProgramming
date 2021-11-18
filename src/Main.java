@@ -47,7 +47,7 @@ public class Main {
             case 70 -> System.out.println("Good");
             default -> System.out.println("OK");
         }
-        // no explanation needed :)
+        // no explanation needed   :)
     }
 
     /**
